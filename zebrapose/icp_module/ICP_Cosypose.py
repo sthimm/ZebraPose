@@ -10,7 +10,7 @@ from ICP_Render import ICP_Render
 
 def read_depth(path):
     depth = np.asarray(Image.open(path)).copy()
-    depth = depth.astype(np.float)
+    depth = depth.astype(np.float64)
     return depth
 
 class ICPRefiner:
