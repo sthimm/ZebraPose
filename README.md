@@ -104,3 +104,17 @@ The original code has been developed together with [`Mahdi Saleh`](https://githu
   year={2022}
 }
 ```
+
+## Docker (NEW)
+
+### Build Docker Container
+
+```
+docker compose build
+```
+
+### Run interactive Container
+
+```
+docker compose run --rm zebrapose /bin/bash
+```
