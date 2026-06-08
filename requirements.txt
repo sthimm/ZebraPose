@@ -1,0 +1,9 @@
+numpy==1.24
+tqdm
+tensorboard
+imgaug
+pypng
+opencv-python-headless
+pandas
+scikit-learn
+open3d-cpu
