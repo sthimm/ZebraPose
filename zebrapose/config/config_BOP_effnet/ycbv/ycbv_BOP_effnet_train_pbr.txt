@@ -1,7 +1,7 @@
 #### training dataset
 ##for ycbv, bop_challange = False during the training
 bop_challange = False
-bop_path = /home/ysu/data/data_object_pose/BOP_dataset/
+bop_path = ./bop_datasets
 dataset_name = ycbv
 training_data_folder = train_pbr
 training_data_folder_2 = none

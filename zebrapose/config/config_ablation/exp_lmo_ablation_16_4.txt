@@ -1,6 +1,6 @@
 #### training dataset
 bop_challange = False
-bop_path = /home/ysu/data/data_object_pose/Remote_BOP/
+bop_path = ./bop_datasets
 dataset_name = lmo
 training_data_folder = train_real
 training_data_folder_2 = train_pbr
